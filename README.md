@@ -44,7 +44,7 @@ August 2024 – March 2025
 - Migrated IPFS infrastructure off three self-hosted clusters to a managed provider, cutting monthly cost from $6,000 to $500. Built a Cloudflare Worker abstraction layer preserving the full RPC surface so the dependent stack required no changes.
 
 ### Co-Founder and Lead Consultant | VeriHash
-December 2021 – Sep 2026
+December 2021 – September 2026
 
 - Designed and operated 8 bare metal and cloud Kubernetes clusters across US, EU, and Asia, managed with Terraform, Helm, and a custom Tailscale mesh network predating the official Tailscale Kubernetes operator.
 - Redesigned a single-cloud Kubernetes deployment into a multi-cloud architecture, reducing infrastructure cost by approximately 30%, and operated self-hosted PostgreSQL with offline encrypted key storage and HSM-backed remote signing.
