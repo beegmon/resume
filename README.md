@@ -44,13 +44,13 @@ August 2024 – March 2025
 - Migrated IPFS infrastructure off three self-hosted clusters to a managed provider, cutting monthly cost from $6,000 to $500. Built a Cloudflare Worker abstraction layer preserving the full RPC surface so the dependent stack required no changes.
 
 ### Co-Founder and Lead Consultant | VeriHash
-December 2021 – Present
+December 2021 – Sep 2026
 
 - Designed and operated 8 bare metal and cloud Kubernetes clusters across US, EU, and Asia, managed with Terraform, Helm, and a custom Tailscale mesh network predating the official Tailscale Kubernetes operator.
 - Redesigned a single-cloud Kubernetes deployment into a multi-cloud architecture, reducing infrastructure cost by approximately 30%, and operated self-hosted PostgreSQL with offline encrypted key storage and HSM-backed remote signing.
 
 ### Technical Lead Cloud Engineer | Redfin
-March 2022 – June 2024 (Position eliminated in re-org)
+March 2022 – June 2024
 
 - Led the on-premises to AWS migration of a Java monolith, finishing 35 days ahead of schedule and $150K under budget, with AWS presenting as another datacenter so the application needed no changes.
 - Consolidated 50+ AWS accounts into Control Tower with OU-based governance, baseline security enforcement, and Okta single sign-on, then replaced inter-VPC Transit Gateway routing with VPC endpoints at zero downtime.
